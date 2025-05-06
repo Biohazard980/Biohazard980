@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Biohazard980
 - 👀 I’m interested in coding, art, games, photography, and just about anything nerdy.
-- 🌱 I’m currently learning GIT but may be switching back to Software engineering
-- 💞️ I’m looking to collaborate on anything i guess. I'm a newbie.
+- 🌱 I’m currently studying Unreal Engine 5 and Blender.
+- 💞️ I’m looking to collaborate on anything I guess. I'm a newbie.
 - 📫 How to reach me. Probably shoot me a message on here right?
 
 <!---
